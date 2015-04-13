@@ -1,0 +1,24 @@
+{
+    "universities":[
+        {
+            "name_international": "Albert Schweitzer International University",
+            "type": "University",
+            "address": "La Castellana, 131. Bajo C",
+            "city": "Madrid, Spain",
+            "postal_code": 28046,
+            "phone": "+34 (91) 555-6600",
+            "fax": "+34 (91) 555-0706",
+            "email": "administration[at]albertsc.com"
+        },
+        {
+            "name_international": "Aula University of Iberoamerican (UIA), University of Cadiz",
+            "type": "University",
+            "address": "Paseo Carlos III, 3, 1st floor Lecture 'La Bomba'",
+            "city": "Cádiz",
+            "postal_code": 11003,
+            "phone": "(+34) 956 015683",
+            "fax": "(+34) 956 015895",
+            "email": "gestion[at]aulaiberoamericana.es"
+        }
+    ]
+}
